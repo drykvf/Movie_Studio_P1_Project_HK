@@ -9,7 +9,7 @@ This project analyzes the most popular, top movies which will be preffered to ma
 
 Business Problem
 
-Microsoft may be able to improve their resource allocation to get more turnover in the correct season with three categories of movies. Preferring these movies aims more satisfied audience thanks to the high demanded movies while company is going to get anticipated turnover.
+Microsoft may be able to improve their resource allocation to get more profit in the correct season with three categories of movies. Preferring these movies aims more satisfied audience thanks to the high demanded movies while company is going to get anticipated profit.
 
 Data
 
@@ -21,20 +21,20 @@ This project uses descriptive analysis. This provides a useful overview of top h
 
 Results
 
-Most popular and top movies are resulted based on ratings, worldwide turnover and for the best season to release them.
+Most popular and top movies are resulted based on ratings, worldwide gross and for the best season to release them.
 
 Conclusions
 
 This analysis leads to three recommendations for following procedures of Microsoft new studio:
 
 1. 'Adventure, Documentary, Drama', ‘Drama, Mystery, War’, ‘Adventure, Drama, Sci-Fi’, ‘Crime-Documentary ‘, ‘Documentary, Drama, History’ are the pop 5 genres of movies based on audience's highest ratings as analysis result. Pop 10 movies are displayed into related bar graph.
-2.  The highest genre among top 10 genres of movies features as “Adventure,Drama,Sport” based on worldwide turnover. “Adventure-Fantasy”, “Adventure,Drama,Sci-Fi” could be concerned as following options within 50% percentage of Adventure,Drama,Sport”.
-3.  Microsoft studio can concern the best profitable months are May, June and July summer season based on the highest worldwide gross. Furthermore November is another option which is close to July potential among the top months to release the movie.
+2.  The highest genre among top 10 genres of movies features as “Adventure,Drama,Sport” based on worldwide gross. “Adventure-Fantasy”, “Adventure,Drama,Sci-Fi” could be concerned as following options within 50% percentage of Adventure,Drama,Sport”.
+3.  Microsoft studio can concern the best profitable months are May, June and July summer season based on the highest worldwide gross. Furthermore November is another option which is the closest to July potential among the top months to release the movie.
 
 Next Steps
 
 Further analyses could yield additional insights to further improve operations at Microsoft:
-1. Priority on this analysis is based on relationship among the Pop_10 genres, Top_10 genres, Ratings, Best Season and Global Turnover. 
+1. Priority on this analysis is based on relationship among the Pop_10 genres, Top_10 genres, Ratings, Best Season and Global gross. 
 2. The related analysis does not include runtime of movies, it is available in different database, not evaluated in above analysis.
 3. This analysis is based on the information as below links. They does not include, actor, director, writer information. Based on different sources, it could be observed for another recommendation.
 

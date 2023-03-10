@@ -4,6 +4,7 @@ Microsoft New Studio Movie Analysis
 Author: Hera K.
 
 Overview
+
 This project analyzes the most popular, top movies which will be preffered to make a film in a new studio business of Microsoft. Descriptive analysis of movies shows that the relationship among release date, worldwide gross and ratings in imbd records. Microsoft can use this analysis to adjust new movie category, when it should be launched to improve their new studio business.
 
 Business Problem
